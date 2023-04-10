@@ -42,9 +42,9 @@ def start_game():
                     'Please guess a number within the given range')
 
             attempts += 1
-            attempts_list.append(attempts)
 
             if guess == rand_num:
+                attempts_list.append(attempts)
                 print('Nice! You got it!')
                 print(f'It took you {attempts} attempts')
                 wanna_play = input(
