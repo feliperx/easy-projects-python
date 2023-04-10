@@ -1,7 +1,7 @@
 '''
 Rock Paper Scissors
 -------------------------------------------------------------
-Jogo de pedra papel de tesoura
+Jogo de pedra,papel e tesoura
 
 '''
 
